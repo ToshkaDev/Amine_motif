@@ -1,5 +1,5 @@
 # Amine_motif
-Data accompanying a paper on amine binding receptors 
+Data accompanying the paper on amine binding receptors 
 
 We defined the amine binding motif as follows:
 
